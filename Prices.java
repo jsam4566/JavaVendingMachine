@@ -1,6 +1,6 @@
 public class Prices {
     public double[][][] prices;
-
+//this is prices class
     public Prices(int rows, int cols, int depth) {
         prices = new double[rows][cols][depth];
     }

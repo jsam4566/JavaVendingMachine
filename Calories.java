@@ -1,6 +1,6 @@
 public class Calories {
     public int[][][] calories;
-
+//here is calories
     public Calories(int rows, int cols, int depth) {
         calories = new int[rows][cols][depth];
     }

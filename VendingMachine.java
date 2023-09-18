@@ -1,6 +1,6 @@
 public class VendingMachine {
     public String[][][] products;
-
+//this is the vending machine
     public VendingMachine(int rows, int cols, int depth) {
         products = new String[rows][cols][depth];
     }
